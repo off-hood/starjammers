@@ -32,6 +32,6 @@ The Battlepass system is designed to be similar to modern MOBA or FPS games, in 
 
 OpenSea Collection Link: https://opensea.io/collection/neuranode-collection
 
-​Block Explorer / Smart Contract Explorer:  https://snowtrace.io/address/0xd9438e706c0a125b5f4ef4c30e7dcb8e1b6e66e
+​Block Explorer / Smart Contract Explorer:  [https://snowtrace.io/address/0xd9438e706c0a125b5f4ef4c30e7dcb8e1b6e66e](https://snowtrace.io/address/0xd9438e706c0a125b5f4ef4c30e7dcb8e1b6e66ed)
 ​
 ​​​![VyjXFm](https://github.com/user-attachments/assets/44f4ca7c-8b4a-4936-ae8d-a716c9f7c115)
